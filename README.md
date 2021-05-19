@@ -28,11 +28,11 @@ My work as a Data Analyst in the manufacturing industry focuses in the supply ch
 I'm passionate about coding, data science and machine learning. You can learn more about me and explore my work on my personal website. I'm always learning, always sharing and always challenging myself!
 
 <h3 align = 'center'>Latest Projects:</h3>
-<p align = 'center'>Computer Vision Deepfakes (First Order Model Method): Face Synthesis With GANs and Autoencoders</br>
-A Deep Learning Approach to Identifying Messi: Darknet YOLOv4 Custom Object Detector</br>
-K-Means Clustering and Plotly to Analyse My Personal Spotify Music Library</br>
-Winning a Tesla (Hopefully!) With Selenium Automation and Optical Character Recognition</br>
-Natural Language Processing, Co-Occurance and Sentiment Analysis of App Store Reviews</br></p>
+<p align = 'center'>Project1</br>
+Project2</br>
+Project3</br>
+Project4</br>
+Project5</br></p>
 
 <p align = 'center'><h3 align = 'center'>Connect With Me:</h3></p>
 

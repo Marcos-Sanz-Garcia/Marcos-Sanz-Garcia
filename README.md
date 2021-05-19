@@ -37,18 +37,67 @@ Natural Language Processing, Co-Occurance and Sentiment Analysis of App Store Re
 <p align = 'center'><h3 align = 'center'>Connect With Me:</h3></p>
 
 <p align = 'center'><a href="https://www.linkedin.com/in/" target="_blank">
-<img alt="GitHub" src="https://jaumeclave.github.io./images/linkedin_logo.png" height="17"></a>
+<img alt="GitHub" src="https://img.flaticon.com/icons/png/512/174/174857.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF" height="17"></a>
   
 <a href="https://github.com/Marcos-Sanz-Garcia" target="_blank">
-<img alt="GitHub" src="https://jaumeclave.github.io./images/github_logo.png" height="18" hspace="20"></a>
+<img alt="GitHub" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" height="18" hspace="20"></a>
   
-<a href="mailto:mmartinez.azcona@gmail.com" target="_blank">
-<img alt="Gmail" src="https://jaumeclave.github.io./images/gmail_logo.png" height="18"></a>
+<a href="mailto:msg@gmail.com" target="_blank">
+<img alt="Gmail" src="https://logos-marcas.com/wp-content/uploads/2020/11/Gmail-Logo.png" height="18"></a>
   
 <a href="https://marcos-sanz-garcia.github.io./" target="_blank">
 <img alt="GitHub" src="https://img.icons8.com/wired/2x/domain.png" height="17" hspace="30"></a></p>
 
 <h3 align = 'center'>Languages and Tools:</h3>
+
+<table align="center"  width="75%">
+  <tr>
+    <th>Programming Languages</th>
+    <th>Libraries</th>
+    <th>Other languages</th>
+    <th>Other tools</th>
+  </tr>
+  <tr>
+    <td width="25%">
+      <ul>
+        <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white">
+        <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=flat&logo=java&logoColor=white">
+      </ul>
+    </td>
+    <td width="25%">
+      <h4>Databases</h4>
+      <ul>
+        <li><img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=flat&logo=mysql&logoColor=white"/></li>
+        <li><img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=flat&logo=mongodb&logoColor=white"/></li>
+      </ul>
+      <h4>Data Analysis</h4>
+      <ul>
+        <li><img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"></li>
+        <li><img src="http://img.shields.io/static/v1?label=Tableau&message=%20&color=blue"></li>
+      </ul>
+      <h4>Cloud</h4>
+      <ul>
+          <li><img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=flat&logo=amazon-aws&logoColor=white"/></li>
+          <li><img src="http://img.shields.io/static/v1?label=Spark&message=%20&color=orange"></li>
+      </ul>
+    </td>
+    <td width="25%">
+      <h4> Other languages </h4>
+      <ul>
+          <li><img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=flat&logo=c&logoColor=white"></li>
+          <li><img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=flat&logo=c%2B%2B&logoColor=white"></li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+          <li><img src="https://img.shields.io/badge/github-%23100000.svg?&style=flat&logo=github&logoColor=white"></li>
+           <li><img height="20" src="/assets/atom.jpg">&nbsp Atom </li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+
 
 <p align = 'center'><img align="center" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 

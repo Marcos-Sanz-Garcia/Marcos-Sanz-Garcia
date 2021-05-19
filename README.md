@@ -60,38 +60,38 @@ Natural Language Processing, Co-Occurance and Sentiment Analysis of App Store Re
   <tr>
     <td width="25%">
       <ul>
-        <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white">
+        <img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&logoColor=white"> 
         <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=flat&logo=java&logoColor=white">
       </ul>
     </td>
     <td width="25%">
       <h4>Databases</h4>
       <ul>
-        <li><img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=flat&logo=mysql&logoColor=white"/></li>
-        <li><img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=flat&logo=mongodb&logoColor=white"/></li>
+        <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=flat&logo=mysql&logoColor=white"/>
+        <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=flat&logo=mongodb&logoColor=white"/>
       </ul>
       <h4>Data Analysis</h4>
       <ul>
-        <li><img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"></li>
-        <li><img src="http://img.shields.io/static/v1?label=Tableau&message=%20&color=blue"></li>
+        <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=yellow">
+        <img src="http://img.shields.io/static/v1?label=Tableau&message=%20&color=blue">
       </ul>
       <h4>Cloud</h4>
       <ul>
-          <li><img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=flat&logo=amazon-aws&logoColor=white"/></li>
-          <li><img src="http://img.shields.io/static/v1?label=Spark&message=%20&color=orange"></li>
+        <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=flat&logo=amazon-aws&logoColor=white"/>
+        <img src="http://img.shields.io/static/v1?label=Spark&message=%20&color=orange">
       </ul>
     </td>
     <td width="25%">
       <h4> Other languages </h4>
       <ul>
-          <li><img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=flat&logo=c&logoColor=white"></li>
-          <li><img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=flat&logo=c%2B%2B&logoColor=white"></li>
+          <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=flat&logo=c&logoColor=white">
+          <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=flat&logo=c%2B%2B&logoColor=white">
       </ul>
     </td>
     <td>
       <ul>
-          <li><img src="https://img.shields.io/badge/github-%23100000.svg?&style=flat&logo=github&logoColor=white"></li>
-           <li><img height="20" src="/assets/atom.jpg">&nbsp Atom </li>
+          <img src="https://img.shields.io/badge/github-%23100000.svg?&style=flat&logo=github&logoColor=white">
+          <img height="20" src="/assets/atom.jpg">&nbsp Atom>
       </ul>
     </td>
   </tr>
@@ -125,3 +125,42 @@ Natural Language Processing, Co-Occurance and Sentiment Analysis of App Store Re
 </p> 
 
 </br>
+
+
+<table align="left"  width="30%">
+  <tr>
+    <th>Programming Languages</th>
+    <th>Libraries</th>
+  </tr>
+  <tr>
+    <td width="50%">
+      <ul>
+        <img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&logoColor=white"> 
+        <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=flat&logo=java&logoColor=white">
+      </ul>
+    </td>
+    <td width="50%">
+      <ul>
+        <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=flat&logo=mysql&logoColor=white"/>
+        <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=flat&logo=mongodb&logoColor=white"/>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<table align="center left"  width="25%">
+  <tr>
+    <th>Programming Languages</th>
+  </tr>
+  <tr>
+    <td width="100%">
+      <ul>
+        <img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&logoColor=white"> 
+        <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=flat&logo=java&logoColor=white">
+      </ul>
+    </td>
+    
+  </tr>
+</table>
+
+

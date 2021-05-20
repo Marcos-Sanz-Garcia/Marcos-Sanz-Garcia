@@ -109,15 +109,15 @@ Project5</br></p>
     <br>
     <img width="100px" src ="https://seeklogo.com/images/J/java-logo-41D4155FC3-seeklogo.com.png"/>
     <img width="100px" src ="https://upload.wikimedia.org/wikipedia/commons/8/85/Scala_logo.png"/>
-    <img width="100px" src ="https://c0.klipartz.com/pngpicture/63/313/gratis-png-html-iconos-de-la-computadora-world-wide-web.png"/>
+    <img width="100px" src ="https://mpng.subpng.com/20180825/lfr/kisspng-brand-html-logo-product-design-document-html-icon-free-of-illustricons-5b816dd73ee2f5.3188037315352089192576.jpg"/>
     <br>
   </th>
   <th>
     <br>
     <img width="100px" src ="https://logos-marcas.com/wp-content/uploads/2020/11/GitHub-Logo.png"/>
     <img width="100px" src ="https://www.disid.com/wp-content/uploads/tableau-logo.png"/>
-    <img width="100px" src ="https://www.clipartmax.com/png/middle/250-2501985_siks-cbs-datacamp-spark-tutorial-notebook-jupyter-notebook-icon.png"/>
-    <img width="100px" src ="https://e7.pngegg.com/pngimages/63/313/png-clipart-html-computer-icons-world-wide-web-text-logo-thumbnail.png"/>
+    <img width="100px" src ="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png"/>
+    <img width="100px" src ="http://assets.stickpng.com/images/58481537cef1014c0b5e4968.png"/>
     <br>
   </th>  
 </table>

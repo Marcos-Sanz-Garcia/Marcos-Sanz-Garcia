@@ -51,18 +51,20 @@ Project5</br></p>
 
 <h3 align = 'center'>Languages and Tools:</h3>
 
-<table width="50px">
+<table align="left" >
   <tr>
-    <th>Programming Languanges</th>
-    <th>Main Libraries</th> 
+    <th width="1px">Languanges</th>
+    <th width="5px">Main Libraries</th> 
   </tr>
   <tr>
-    <td><img align="center" alt="Python" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+    <td>
+      <img align="center" alt="Python" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
     </td>
     <td>
       <img width="100px" src ="https://cdn-images-1.medium.com/max/1024/1*-QTg-_71YF0SVshMEaKZ_g.png"/>
-      <img width="100px" src ="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Plotly-logo-01-square.png/1200px-Plotly-logo-01-square.png"/>
+      <img width="100px" src ="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Plotly-logo-01-square.png/1200px-Plotly-logo-01-square.png"/><br>
       <img width="100px" src ="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png"/>
+      <img width="100px" src ="https://repository-images.githubusercontent.com/122896249/65414f00-82d3-11e9-8cca-d13923f96a75"><br>
       <img width="100px" src ="https://www.analyticsvidhya.com/blog/wp-content/uploads/2015/01/scikit-learn-logo.png"/>
       <img width="100px" src ="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1280px-NumPy_logo_2020.svg.png"/>
     </td> 
@@ -74,49 +76,48 @@ Project5</br></p>
     <td>
       <img width="60px" src ="https://ggplot2.tidyverse.org/logo.png"/>
       <img width="60px" src ="https://tidyverse.tidyverse.org/articles/tidyverse-logo.png"/>
-      <img width="60px" src ="https://d33wubrfki0l68.cloudfront.net/071952491ec4a6a532a3f70ecfa2507af4d341f9/ff4d9/wp-content/uploads/2014/04/dplyr.png"/>
+      <img width="60px" src ="https://d33wubrfki0l68.cloudfront.net/071952491ec4a6a532a3f70ecfa2507af4d341f9/ff4d9/wp-content/uploads/2014/04/dplyr.png"/><br>
       <img width="60px" src ="https://d33wubrfki0l68.cloudfront.net/c477d7eb7fdf2c3d75637cfe19ff4a4d0a107bcf/017d0/css/images/hex/tibble.png"/>
       <img width="60px" src ="https://raw.githubusercontent.com/Rdatatable/data.table/master/.graphics/logo.png"/>
-      <img width="60px" src ="https://d33wubrfki0l68.cloudfront.net/c477d7eb7fdf2c3d75637cfe19ff4a4d0a107bcf/017d0/css/images/hex/tibble.png"/>
       <img width="60px" src ="https://cran.r-project.org/web/packages/rpart/readme/man/figures/rpart.png"/>
       <img width="80px" src ="https://avatars.githubusercontent.com/u/12941794?s=200&v=4"/>
+      ranger
     </td> 
   </tr>
 </table>
-<br>
-<table align="left"  width="50%">
+
+<table align="right">
   <tr>
-    <th>Databases</th>
-    <th>Cloud Computing</th>
+    <th width="1px">Databases</th>
+    <th width="1px">Cloud Computing</th>
   </tr>
   <th>
     <br>
-    <img width="100px" src ="https://webassets.mongodb.com/_com_assets/cms/MongoDB_Logo_FullColorBlack_RGB-4td3yuxzjs.png"/>
+    <img width="100px" src ="https://webassets.mongodb.com/_com_assets/cms/MongoDB_Logo_FullColorBlack_RGB-4td3yuxzjs.png"/><br>
     <img width="100px" src ="http://1000marcas.net/wp-content/uploads/2020/11/MySQL-logo.png"/>
     <br>
   </th>
   <th>
     <br>
-    <img width="110px" src ="https://cloud.google.com/images/velostrata/cloud-lockup-logo.png"/>
+    <img width="110px" src ="https://cloud.google.com/images/velostrata/cloud-lockup-logo.png"/><br>
     <img width="100px" src ="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png"/>
     <br>
   </th>
    <tr>
-    <th>Other Languages</th>
-    <th>Other Tools</th>
+    <th width="1px">Other Languages</th>
+    <th width="1px">Other Tools</th>
   </tr>
   <th>
     <br>
-    <img width="100px" src ="https://seeklogo.com/images/J/java-logo-41D4155FC3-seeklogo.com.png"/>
-    <img width="100px" src ="https://upload.wikimedia.org/wikipedia/commons/8/85/Scala_logo.png"/>
+    <img width="80px" src ="https://seeklogo.com/images/J/java-logo-41D4155FC3-seeklogo.com.png"/><br>
+    <img width="80px" src ="https://upload.wikimedia.org/wikipedia/commons/8/85/Scala_logo.png"/><br>
     <img width="60px" src ="https://freeiconshop.com/wp-content/uploads/edd/html-solid.png"/>
     <br>
   </th>
   <th>
     <br>
     <img width="100px" src ="https://logos-marcas.com/wp-content/uploads/2020/11/GitHub-Logo.png"/>
-    <img width="100px" src ="https://www.disid.com/wp-content/uploads/tableau-logo.png"/>
-    <img width="60px" src ="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png"/>
+    <img width="100px" src ="https://www.disid.com/wp-content/uploads/tableau-logo.png"/><br>
     <img width="60px" src ="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1200px-PyCharm_Icon.svg.png"/>
     <br>
   </th>  

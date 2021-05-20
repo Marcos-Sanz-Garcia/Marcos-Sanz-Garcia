@@ -107,9 +107,9 @@ Project5</br></p>
   </tr>
   <th>
     <br>
-    <img width="100px" src ="https://banner2.cleanpng.com/20180621/jow/kisspng-plain-old-java-object-programming-language-compute-5b2b6405b39ad9.4848800015295703097357.jpg"/>
+    <img width="100px" src ="https://seeklogo.com/images/J/java-logo-41D4155FC3-seeklogo.com.png"/>
     <img width="100px" src ="https://upload.wikimedia.org/wikipedia/commons/8/85/Scala_logo.png"/>
-    <img width="100px" src ="https://www.pngjoy.com/pngm/352/6577522_html5-logo-logo-html-5-transparent-png.png"/>
+    <img width="100px" src ="https://c0.klipartz.com/pngpicture/63/313/gratis-png-html-iconos-de-la-computadora-world-wide-web.png"/>
     <br>
   </th>
   <th>
@@ -117,7 +117,7 @@ Project5</br></p>
     <img width="100px" src ="https://logos-marcas.com/wp-content/uploads/2020/11/GitHub-Logo.png"/>
     <img width="100px" src ="https://www.disid.com/wp-content/uploads/tableau-logo.png"/>
     <img width="100px" src ="https://www.clipartmax.com/png/middle/250-2501985_siks-cbs-datacamp-spark-tutorial-notebook-jupyter-notebook-icon.png"/>
-    <img width="100px" src ="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/PyCharm_logo.svg/1280px-PyCharm_logo.svg.png"/>
+    <img width="100px" src ="https://e7.pngegg.com/pngimages/63/313/png-clipart-html-computer-icons-world-wide-web-text-logo-thumbnail.png"/>
     <br>
   </th>  
 </table>

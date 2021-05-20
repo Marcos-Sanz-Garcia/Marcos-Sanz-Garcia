@@ -51,7 +51,7 @@ Project5</br></p>
 
 <h3 align = 'center'>Languages and Tools:</h3>
 
-<table style="width:100%">
+<table width="50px">
   <tr>
     <th>Programming Languanges</th>
     <th>Main Libraries</th> 
@@ -87,7 +87,7 @@ Project5</br></p>
 <table align="left"  width="50%">
   <tr>
     <th>Databases</th>
-    <th>Cloud</th>
+    <th>Cloud Computing</th>
   </tr>
   <th>
     <br>

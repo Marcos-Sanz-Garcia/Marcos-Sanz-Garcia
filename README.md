@@ -109,15 +109,15 @@ Project5</br></p>
     <br>
     <img width="100px" src ="https://seeklogo.com/images/J/java-logo-41D4155FC3-seeklogo.com.png"/>
     <img width="100px" src ="https://upload.wikimedia.org/wikipedia/commons/8/85/Scala_logo.png"/>
-    <img width="100px" src ="https://mpng.subpng.com/20180825/lfr/kisspng-brand-html-logo-product-design-document-html-icon-free-of-illustricons-5b816dd73ee2f5.3188037315352089192576.jpg"/>
+    <img width="60px" src ="https://freeiconshop.com/wp-content/uploads/edd/html-solid.png"/>
     <br>
   </th>
   <th>
     <br>
     <img width="100px" src ="https://logos-marcas.com/wp-content/uploads/2020/11/GitHub-Logo.png"/>
     <img width="100px" src ="https://www.disid.com/wp-content/uploads/tableau-logo.png"/>
-    <img width="100px" src ="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png"/>
-    <img width="100px" src ="http://assets.stickpng.com/images/58481537cef1014c0b5e4968.png"/>
+    <img width="60px" src ="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png"/>
+    <img width="60px" src ="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1200px-PyCharm_Icon.svg.png"/>
     <br>
   </th>  
 </table>

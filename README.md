@@ -50,25 +50,16 @@ Project5</br></p>
 
 <h3 align = 'center'>Languages and Tools:</h3>
 
-<table align="center"  width="75%">
+<table align="left"  width="50%">
   <tr>
     <th>Programming Languages</th>
     <th>Libraries</th>
-    <th>Other languages</th>
-    <th>Other tools</th>
   </tr>
   <tr>
     <td width="25%">
       <ul>
         <img align="center" alt="Python" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
+        <br><br><br><br><br><br>
         <img align="center" alt="R" width="90px"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png">
       </ul>
     </td>
@@ -79,98 +70,46 @@ Project5</br></p>
         <img width="100px" src ="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png"/>
         <img width="100px" src ="https://www.analyticsvidhya.com/blog/wp-content/uploads/2015/01/scikit-learn-logo.png"/>
         <img width="100px" src ="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1280px-NumPy_logo_2020.svg.png"/>
-        <br>
-        <br>
-        <br>
+      <br><br>
         <img width="100px" src ="https://www.business-science.io/assets/2020-10-15-must-know-tidyverse-features/tidyverse-icons.png"/>
         <img width="100px" src ="https://www.business-science.io/assets/2020-10-15-must-know-tidyverse-features/tidyverse-icons.png"/>
-      </ul>
-    </td>
-    <td width="25%">
-      <h4> Other languages </h4>
-      <ul>
-          <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=flat&logo=c&logoColor=white">
-          <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=flat&logo=c%2B%2B&logoColor=white">
-      </ul>
-    </td>
-    <td>
-      <ul>
-          <img src="https://img.shields.io/badge/github-%23100000.svg?&style=flat&logo=github&logoColor=white">
-          <img height="20" src="/assets/atom.jpg">&nbsp Atom>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-        <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=flat&logo=mysql&logoColor=white"/>
-        <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=flat&logo=mongodb&logoColor=white"/>
-        <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=yellow">
-        <img src="http://img.shields.io/static/v1?label=Tableau&message=%20&color=blue">
-        <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=flat&logo=amazon-aws&logoColor=white"/>
-        <img src="http://img.shields.io/static/v1?label=Spark&message=%20&color=orange">
-
-<p align = 'center'><img align="center" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-
-<img align="center" alt="Plotly" width="30px" src="https://avatars2.githubusercontent.com/u/5997976?s=200&v=4" />
-
-<img align="center" alt="Scikit-Learn" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" />
-
-<img align="center" alt="Tensorflow" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
-
-<img align="center" alt="R" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
-
-<img align="center" alt="Tidyverse" width="30px" src="https://avatars1.githubusercontent.com/u/22032646?s=200&v=4" />
-
-<img align="center" alt="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-
-<img align="center" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-
-<img align="center" alt="Spark" width="30px" src="https://dv-website.s3.amazonaws.com/uploads/2015/06/spark-logo.png" />
-
-<img align="center" alt="Tableau" width="30px" src="https://promto.com/wp-content/uploads/2019/08/icon-tableau-1.png" />
-
-<img align="center" alt="Jupyter" width="30px" src="https://avatars1.githubusercontent.com/u/7388996?s=200&v=4" />
-
-<img align="center" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-</p> 
-
-</br>
-
-
-<table align="left"  width="30%">
-  <tr>
-    <th>Programming Languages</th>
-    <th>Libraries</th>
-  </tr>
-  <tr>
-    <td width="50%">
-      <ul>
-        <img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&logoColor=white"> 
-        <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=flat&logo=java&logoColor=white">
-      </ul>
-    </td>
-    <td width="50%">
-      <ul>
-        <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=flat&logo=mysql&logoColor=white"/>
-        <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=flat&logo=mongodb&logoColor=white"/>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<table align="center left"  width="25%">
-  <tr>
-    <th>Programming Languages</th>
-  </tr>
-  <tr>
-    <td width="100%">
-      <ul>
-        <img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&logoColor=white"> 
-        <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=flat&logo=java&logoColor=white">
       </ul>
     </td>
     
   </tr>
 </table>
 
+<br><br>
 
+<table align="left"  width="50%">
+  <tr>
+    <th>Databases</th>
+    <th>Cloud</th>
+  </tr>
+  <th>
+    <br>
+    Databases...
+    <br>
+  </th>
+  <th>
+    <br>
+    Cloud...
+    <br>
+  </th>
+   <tr>
+    <th>Other Languages</th>
+    <th>Other Tools</th>
+  </tr>
+  <th>
+    <br>
+    Other Languages...
+    <br>
+  </th>
+  <th>
+    <br>
+    Other tools...
+    <br>
+  </th>
+
+  
+</table>

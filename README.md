@@ -60,25 +60,23 @@ Project5</br></p>
   <tr>
     <td width="25%">
       <ul>
-        <img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&logoColor=white"> 
-        <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=flat&logo=java&logoColor=white">
+        <img align="center" alt="Python" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+        <br>
+        <br>
+        <br>
+        <br>
+        <img align="center" alt="R" width="90px"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png">
       </ul>
     </td>
     <td width="25%">
-      <h4>Databases</h4>
       <ul>
-        <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=flat&logo=mysql&logoColor=white"/>
-        <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=flat&logo=mongodb&logoColor=white"/>
+        <img src ="https://cdn-images-1.medium.com/max/1024/1*-QTg-_71YF0SVshMEaKZ_g.png"/>
       </ul>
-      <h4>Data Analysis</h4>
+      <br>
+      <br>
       <ul>
         <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=yellow">
         <img src="http://img.shields.io/static/v1?label=Tableau&message=%20&color=blue">
-      </ul>
-      <h4>Cloud</h4>
-      <ul>
-        <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=flat&logo=amazon-aws&logoColor=white"/>
-        <img src="http://img.shields.io/static/v1?label=Spark&message=%20&color=orange">
       </ul>
     </td>
     <td width="25%">
@@ -97,7 +95,12 @@ Project5</br></p>
   </tr>
 </table>
 
-
+        <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=flat&logo=mysql&logoColor=white"/>
+        <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=flat&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=yellow">
+        <img src="http://img.shields.io/static/v1?label=Tableau&message=%20&color=blue">
+        <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=flat&logo=amazon-aws&logoColor=white"/>
+        <img src="http://img.shields.io/static/v1?label=Spark&message=%20&color=orange">
 
 <p align = 'center'><img align="center" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 

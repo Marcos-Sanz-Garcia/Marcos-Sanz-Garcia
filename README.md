@@ -72,14 +72,12 @@ Project5</br></p>
       <ul>
         <img src ="https://cdn-images-1.medium.com/max/1024/1*-QTg-_71YF0SVshMEaKZ_g.png"/>
         <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Plotly-logo-01-square.png/1200px-Plotly-logo-01-square.png"/>
-        <img src ="https://miro.medium.com/max/3686/1*cN1MqVTzGdpB-673qihhaw.png"/>
+        <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png"/>
         <img src ="https://www.analyticsvidhya.com/blog/wp-content/uploads/2015/01/scikit-learn-logo.png"/>
-      </ul>
-      <br>
-      <br>
-      <ul>
-        <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=yellow">
-        <img src="http://img.shields.io/static/v1?label=Tableau&message=%20&color=blue">
+        <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1280px-NumPy_logo_2020.svg.png"/>
+        <br>
+        <br>
+        <img src ="https://www.business-science.io/assets/2020-10-15-must-know-tidyverse-features/tidyverse-icons.png"/>
       </ul>
     </td>
     <td width="25%">

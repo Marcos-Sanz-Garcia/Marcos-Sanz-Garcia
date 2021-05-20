@@ -81,6 +81,22 @@ Project5</br></p>
 
 <br><br>
 
+<table style="width:100%">
+  <tr>
+    <th>Programming Languanges</th>
+    <th>Main Libraries</th> 
+  </tr>
+  <tr>
+    <td>Python...</td>
+    <td>Python libraries...</td> 
+  </tr>
+  <tr>
+    <td>R</td>
+    <td>R libraries</td> 
+  </tr>
+</table>
+<br><br>
+
 <table align="left"  width="50%">
   <tr>
     <th>Databases</th>
@@ -109,7 +125,7 @@ Project5</br></p>
     <br>
     Other tools...
     <br>
-  </th>
-
-  
+  </th>  
 </table>
+
+

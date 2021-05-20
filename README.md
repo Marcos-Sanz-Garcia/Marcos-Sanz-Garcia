@@ -71,6 +71,9 @@ Project5</br></p>
     <td width="25%">
       <ul>
         <img src ="https://cdn-images-1.medium.com/max/1024/1*-QTg-_71YF0SVshMEaKZ_g.png"/>
+        <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Plotly-logo-01-square.png/1200px-Plotly-logo-01-square.png"/>
+        <img src ="https://miro.medium.com/max/3686/1*cN1MqVTzGdpB-673qihhaw.png"/>
+        <img src ="https://www.analyticsvidhya.com/blog/wp-content/uploads/2015/01/scikit-learn-logo.png"/>
       </ul>
       <br>
       <br>

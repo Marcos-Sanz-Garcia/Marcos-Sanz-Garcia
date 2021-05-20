@@ -65,19 +65,25 @@ Project5</br></p>
         <br>
         <br>
         <br>
+        <br>
+        <br>
+        <br>
+        <br>
         <img align="center" alt="R" width="90px"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png">
       </ul>
     </td>
     <td width="25%">
       <ul>
-        <img src ="https://cdn-images-1.medium.com/max/1024/1*-QTg-_71YF0SVshMEaKZ_g.png"/>
-        <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Plotly-logo-01-square.png/1200px-Plotly-logo-01-square.png"/>
-        <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png"/>
-        <img src ="https://www.analyticsvidhya.com/blog/wp-content/uploads/2015/01/scikit-learn-logo.png"/>
-        <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1280px-NumPy_logo_2020.svg.png"/>
+        <img width="100px" src ="https://cdn-images-1.medium.com/max/1024/1*-QTg-_71YF0SVshMEaKZ_g.png"/>
+        <img width="100px" src ="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Plotly-logo-01-square.png/1200px-Plotly-logo-01-square.png"/>
+        <img width="100px" src ="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png"/>
+        <img width="100px" src ="https://www.analyticsvidhya.com/blog/wp-content/uploads/2015/01/scikit-learn-logo.png"/>
+        <img width="100px" src ="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1280px-NumPy_logo_2020.svg.png"/>
         <br>
         <br>
-        <img src ="https://www.business-science.io/assets/2020-10-15-must-know-tidyverse-features/tidyverse-icons.png"/>
+        <br>
+        <img width="100px" src ="https://www.business-science.io/assets/2020-10-15-must-know-tidyverse-features/tidyverse-icons.png"/>
+        <img width="100px" src ="https://www.business-science.io/assets/2020-10-15-must-know-tidyverse-features/tidyverse-icons.png"/>
       </ul>
     </td>
     <td width="25%">

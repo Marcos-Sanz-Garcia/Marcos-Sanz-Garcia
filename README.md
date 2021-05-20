@@ -53,7 +53,7 @@ Project5</br></p>
 
 <table align="left" >
   <tr>
-    <th width="1px">Languanges</th>
+    <th width="1px">Languages</th>
     <th width="5px">Main Libraries</th> 
   </tr>
   <tr>
@@ -74,12 +74,12 @@ Project5</br></p>
       <img align="center" alt="R" width="90px"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png">
     </td>
     <td>
-      <img width="60px" src ="https://ggplot2.tidyverse.org/logo.png"/>
-      <img width="60px" src ="https://tidyverse.tidyverse.org/articles/tidyverse-logo.png"/>
-      <img width="60px" src ="https://d33wubrfki0l68.cloudfront.net/071952491ec4a6a532a3f70ecfa2507af4d341f9/ff4d9/wp-content/uploads/2014/04/dplyr.png"/> 
-      <img width="60px" src ="https://d33wubrfki0l68.cloudfront.net/c477d7eb7fdf2c3d75637cfe19ff4a4d0a107bcf/017d0/css/images/hex/tibble.png"/>
-      <img width="60px" src ="https://raw.githubusercontent.com/Rdatatable/data.table/master/.graphics/logo.png"/>
-      <img width="60px" src ="https://cran.r-project.org/web/packages/rpart/readme/man/figures/rpart.png"/>
+      <img width="55px" src ="https://ggplot2.tidyverse.org/logo.png"/>
+      <img width="55px" src ="https://tidyverse.tidyverse.org/articles/tidyverse-logo.png"/>
+      <img width="55px" src ="https://d33wubrfki0l68.cloudfront.net/071952491ec4a6a532a3f70ecfa2507af4d341f9/ff4d9/wp-content/uploads/2014/04/dplyr.png"/> 
+      <img width="55px" src ="https://d33wubrfki0l68.cloudfront.net/c477d7eb7fdf2c3d75637cfe19ff4a4d0a107bcf/017d0/css/images/hex/tibble.png"/>
+      <img width="55px" src ="https://raw.githubusercontent.com/Rdatatable/data.table/master/.graphics/logo.png"/>
+      <img width="55px" src ="https://cran.r-project.org/web/packages/rpart/readme/man/figures/rpart.png"/>
     </td> 
   </tr>
 </table>

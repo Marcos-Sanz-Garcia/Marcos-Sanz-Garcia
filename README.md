@@ -70,13 +70,18 @@ Project5</br></p>
       <img align="center" alt="R" width="90px"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png">
     </td>
     <td>
-      <img width="100px" src ="https://www.business-science.io/assets/2020-10-15-must-know-tidyverse-features/tidyverse-icons.png"/>
-      <img width="100px" src ="https://www.business-science.io/assets/2020-10-15-must-know-tidyverse-features/tidyverse-icons.png"/>
+      <img width="70px" src ="https://ggplot2.tidyverse.org/logo.png"/>
+      <img width="70px" src ="https://tidyverse.tidyverse.org/articles/tidyverse-logo.png"/>
+      <img width="70px" src ="https://d33wubrfki0l68.cloudfront.net/071952491ec4a6a532a3f70ecfa2507af4d341f9/ff4d9/wp-content/uploads/2014/04/dplyr.png"/>
+      <img width="70px" src ="https://d33wubrfki0l68.cloudfront.net/c477d7eb7fdf2c3d75637cfe19ff4a4d0a107bcf/017d0/css/images/hex/tibble.png"/>
+      <img width="70px" src ="https://raw.githubusercontent.com/Rdatatable/data.table/master/.graphics/logo.png"/>
+      <img width="70px" src ="https://d33wubrfki0l68.cloudfront.net/c477d7eb7fdf2c3d75637cfe19ff4a4d0a107bcf/017d0/css/images/hex/tibble.png"/>
+      <img width="70px" src ="https://cran.r-project.org/web/packages/rpart/readme/man/figures/rpart.png"/>
+      <img width="70px" src ="https://mlr.mlr-org.com/reference/figures/logo.png"/>
     </td> 
   </tr>
 </table>
-<br><br>
-
+<br>
 <table align="left"  width="50%">
   <tr>
     <th>Databases</th>
@@ -84,12 +89,14 @@ Project5</br></p>
   </tr>
   <th>
     <br>
-    Databases...
+    <img width="100px" src ="https://webassets.mongodb.com/_com_assets/cms/MongoDB_Logo_FullColorBlack_RGB-4td3yuxzjs.png"/>
+    <img width="100px" src ="http://1000marcas.net/wp-content/uploads/2020/11/MySQL-logo.png"/>
     <br>
   </th>
   <th>
     <br>
-    Cloud...
+    <img width="110px" src ="https://cloud.google.com/images/velostrata/cloud-lockup-logo.png"/>
+    <img width="100px" src ="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png"/>
     <br>
   </th>
    <tr>
@@ -98,12 +105,17 @@ Project5</br></p>
   </tr>
   <th>
     <br>
-    Other Languages...
+    <img width="100px" src ="https://www.clipartmax.com/png/middle/471-4713387_java-logo-transparent-png-java-development-kit-png.png"/>
+    <img width="100px" src ="https://upload.wikimedia.org/wikipedia/commons/8/85/Scala_logo.png"/>
+    <img width="100px" src ="https://www.pngjoy.com/pngm/352/6577522_html5-logo-logo-html-5-transparent-png.png"/>
     <br>
   </th>
   <th>
     <br>
-    Other tools...
+    <img width="100px" src ="https://logos-marcas.com/wp-content/uploads/2020/11/GitHub-Logo.png"/>
+    <img width="100px" src ="https://www.disid.com/wp-content/uploads/tableau-logo.png"/>
+    <img width="100px" src ="https://www.clipartmax.com/png/middle/250-2501985_siks-cbs-datacamp-spark-tutorial-notebook-jupyter-notebook-icon.png"/>
+    <img width="100px" src ="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/PyCharm_logo.svg/1280px-PyCharm_logo.svg.png"/>
     <br>
   </th>  
 </table>
